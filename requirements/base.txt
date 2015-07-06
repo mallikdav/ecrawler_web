@@ -1,0 +1,7 @@
+# run `pip install -r requirements/base.txt to install dependency
+
+Django
+django-suit
+django-bootstrap3
+beautifulsoup4
+rpc4django
